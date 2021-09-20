@@ -1,0 +1,504 @@
+fileFormatVersion: 2
+guid: 231d97f1f5e59a24bae5e08a9e549275
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6858450675630232815
+    second: pngtree-cartoon-buttons-set-game-png-image_5366306_0
+  - first:
+      213: -2836825506218781061
+    second: pngtree-cartoon-buttons-set-game-png-image_5366306_1
+  - first:
+      213: -4981344618370414149
+    second: pngtree-cartoon-buttons-set-game-png-image_5366306_2
+  - first:
+      213: 5978732540198554216
+    second: pngtree-cartoon-buttons-set-game-png-image_5366306_3
+  - first:
+      213: -5720937264758566642
+    second: pngtree-cartoon-buttons-set-game-png-image_5366306_4
+  - first:
+      213: 543076989500357293
+    second: pngtree-cartoon-buttons-set-game-png-image_5366306_5
+  - first:
+      213: -1395981784812668483
+    second: pngtree-cartoon-buttons-set-game-png-image_5366306_6
+  - first:
+      213: 6239275666981884817
+    second: pngtree-cartoon-buttons-set-game-png-image_5366306_7
+  - first:
+      213: 3686758988038220087
+    second: pngtree-cartoon-buttons-set-game-png-image_5366306_8
+  - first:
+      213: 2064983593136689045
+    second: pngtree-cartoon-buttons-set-game-png-image_5366306_9
+  - first:
+      213: -3256227873839483630
+    second: pngtree-cartoon-buttons-set-game-png-image_5366306_10
+  - first:
+      213: -1991046290989912846
+    second: pngtree-cartoon-buttons-set-game-png-image_5366306_11
+  - first:
+      213: -1531003162330886978
+    second: pngtree-cartoon-buttons-set-game-png-image_5366306_12
+  - first:
+      213: 1813260050955263376
+    second: pngtree-cartoon-buttons-set-game-png-image_5366306_13
+  - first:
+      213: 7601193374391101078
+    second: pngtree-cartoon-buttons-set-game-png-image_5366306_14
+  - first:
+      213: 981607853051486902
+    second: pngtree-cartoon-buttons-set-game-png-image_5366306_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngtree-cartoon-buttons-set-game-png-image_5366306_0
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 872
+        width: 206
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ba589b273e1d0a0800000000000000
+      internalID: -6858450675630232815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cartoon-buttons-set-game-png-image_5366306_1
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 872
+        width: 206
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76df047b3291a8d0800000000000000
+      internalID: -2836825506218781061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cartoon-buttons-set-game-png-image_5366306_2
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 872
+        width: 206
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb94a3e3675bedab0800000000000000
+      internalID: -4981344618370414149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cartoon-buttons-set-game-png-image_5366306_3
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 872
+        width: 205
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a8a919199b8f250800000000000000
+      internalID: 5978732540198554216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cartoon-buttons-set-game-png-image_5366306_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 622
+        width: 206
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0155c75ed52b90b0800000000000000
+      internalID: -5720937264758566642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cartoon-buttons-set-game-png-image_5366306_5
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 622
+        width: 206
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa7bd405a5698700800000000000000
+      internalID: 543076989500357293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cartoon-buttons-set-game-png-image_5366306_6
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 622
+        width: 206
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9335386f970ace0800000000000000
+      internalID: -1395981784812668483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cartoon-buttons-set-game-png-image_5366306_7
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 622
+        width: 205
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193913a792c569650800000000000000
+      internalID: 6239275666981884817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cartoon-buttons-set-game-png-image_5366306_8
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 384
+        width: 219
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7392f7e24cff92330800000000000000
+      internalID: 3686758988038220087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cartoon-buttons-set-game-png-image_5366306_9
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 384
+        width: 206
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f0cef13ab48ac10800000000000000
+      internalID: 2064983593136689045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cartoon-buttons-set-game-png-image_5366306_10
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 384
+        width: 206
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2157210400e8fc2d0800000000000000
+      internalID: -3256227873839483630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cartoon-buttons-set-game-png-image_5366306_11
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 384
+        width: 205
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fcef2682f16e54e0800000000000000
+      internalID: -1991046290989912846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cartoon-buttons-set-game-png-image_5366306_12
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 135
+        width: 206
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc84474cb8c0cae0800000000000000
+      internalID: -1531003162330886978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cartoon-buttons-set-game-png-image_5366306_13
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 135
+        width: 206
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d5896c86ef92910800000000000000
+      internalID: 1813260050955263376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cartoon-buttons-set-game-png-image_5366306_14
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 135
+        width: 206
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69662a5e91ddc7960800000000000000
+      internalID: 7601193374391101078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-cartoon-buttons-set-game-png-image_5366306_15
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 134
+        width: 205
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b22edd342f5f9d00800000000000000
+      internalID: 981607853051486902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
